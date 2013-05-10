@@ -1,0 +1,13 @@
+{
+    "name": "wo",
+    "version": "1.0",
+    "desc": "请修改组件描述",
+    "cover": "",
+    "author": {
+        "name": "明河",
+        "email": "minghe36@126.com",
+        "page": "请修改作者个人首页"
+    },
+    "type": "kissy-pie",
+    "type-url": "http://abc.alibaba-inc.com/r/kissy-pie"
+}
